@@ -1,0 +1,88 @@
+img {
+    border-radius: 20px;
+    width: 240px;
+    height: 240px;
+  }
+  
+  .navbar {
+    font-size: 15px;
+    background-color: #169A1A;
+    color: white;
+    padding: 10px;
+  }
+  
+  .header {
+    font-size: 37px;
+    margin: 2.5% 0 2.5% 0;
+    color: #149218;
+    text-align: center;
+    font-weight: bolder;
+  }
+  
+  .header-cuisine {
+    font-size: 25px;
+    color: #149218;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .italian {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+  
+  .chinese {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+  
+  .italian-row1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .italian-row2 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .chinese-row1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .food-block {
+    align-items: stretch;
+    font-size: 15px;
+    background-color: #228B22;
+    color: #FFFFFF;
+    margin: 30px 0 0 30px;
+    border-radius: 25px;
+    width: 250px;
+    height: auto;
+    padding: 5px;
+    padding-right: 0;
+  }
+  
+  .food-box-title {
+    font-weight: bolder;
+    font-size: 18px;
+    color: #FFFFFF;
+  }
+  
+  .nav-item {
+    font-size: 18px;
+    padding: 10px;
+  }
+  
